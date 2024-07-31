@@ -35,7 +35,7 @@ function userData(data) {
             <p><b>username</b>:${user.username}</p>
             <p><b>password</b>:${user.password}</p>
             <div class="btns">
-                <button>edit</button>
+               
                 <button class="delete__btn">delete</button>
             </div>
     `;
